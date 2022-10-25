@@ -70,5 +70,8 @@ WHERE date.year=2020 and transactions.market_code="Mark001";
 
 ![image](https://user-images.githubusercontent.com/106476037/197784874-6f4ab1a1-2281-490e-a98c-81280d592664.png)
 
+![image](https://user-images.githubusercontent.com/106476037/197785791-e34b13ec-40c2-4c32-a565-7871a6b00628.png)
+
+
 
 
