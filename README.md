@@ -1,4 +1,4 @@
-# Data-Analysis-Using-SQL-and-PowerBI
+# Creating a sales insight dashboard using SQL and PowerBI
 
 Tools/technologies that make real data instantly accessible with simple, understandable and digestible insights are a boon for companies.
 
